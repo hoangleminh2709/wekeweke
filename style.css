@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(154, 204, 228);
+}
+h1 {
+    color:  rgb(53, 149, 180);
+}
+
+h2 {
+    font-style: normaly;
+    color:  rgb(53, 149, 180) ;
+}
+h3 {
+    color:  rgb(53, 149, 180);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font: 20px Roboto, sans-serif;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font: 20px Roboto, sans-serif;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font: 20px Roboto, sans-serif;
+}
